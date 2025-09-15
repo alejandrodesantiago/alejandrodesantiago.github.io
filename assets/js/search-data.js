@@ -410,8 +410,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-conference-presentation-i-presented-a-poster-and-rapid-talk-at-the-asm-conference-in-los-angeles-ca-june-19-23-i-presented-our-work-on-the-metabolic-diversity-and-evolution-of-invertebrate-associated-pseudoalteromonas",
+          title: 'Conference Presentation: I presented a poster and rapid talk at the ASM Conference...',
           description: "",
           section: "News",},{id: "news-new-preprint-published-pseudoalteromonas-is-a-novel-symbiont-of-marine-invertebrates-that-exhibits-broad-patterns-of-phylosymbiosis",
           title: 'New preprint published! Pseudoalteromonas is a novel symbiont of marine invertebrates that exhibits...',
