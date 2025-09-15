@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Institute of Bioinformatics and Department of Marine Sciences</a> University of Georgia, 325 Sanford Drive University of Georgia, Athens GA 30602
+subtitle: <a href='#'>Institute of Bioinformatics and Department of Marine Sciences</a>. University of Georgia
 
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
