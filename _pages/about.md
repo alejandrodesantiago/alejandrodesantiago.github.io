@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Institute of Bioinformatics and Department of Marine Sciences</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Institute of Bioinformatics and Department of Marine Sciences</a> 
+325 Sanford Drive
+University of Georgia, Athens GA 30602
+
 
 profile:
   align: right
