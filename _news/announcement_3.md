@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+**Conference Presentation**: I presented a poster and rapid talk at the ASM Conference in Los Angeles, CA (June 19-23). I presented our work on, "The metabolic diversity and evolution of invertebrate-associated *Pseudoalteromonas*" 
