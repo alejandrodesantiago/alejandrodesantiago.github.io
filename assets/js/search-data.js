@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-symposium-presentation-i-presented-a-my-research-on-the-intricate-history-of-host-switching-and-codivergence-of-the-bacterial-genus-pseudoalteromonas-and-marine-invertebrates-at-the-local-edge-symposium-at-uga-january-21",
-          title: 'Symposium Presentation: I presented a my research on “The intricate history of host...',
+            },},{id: "news-symposium-presentation-i-presented-my-research-the-intricate-history-of-host-switching-and-codivergence-of-the-bacterial-genus-pseudoalteromonas-and-marine-invertebrates-at-the-local-edge-symposium-at-uga-january-21",
+          title: 'Symposium Presentation: I presented my research, “The intricate history of host switching and...',
           description: "",
           section: "News",},{id: "news-symposium-presentation-i-presented-my-research-marine-invertebrate-associated-bacteria-exhibits-genomic-evidence-of-nutritional-mutualism-at-the-local-iob-symposium-at-uga-april-18",
           title: 'Symposium Presentation: I presented my research, “Marine Invertebrate-Associated Bacteria Exhibits Genomic Evidence of...',
