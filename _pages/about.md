@@ -7,7 +7,7 @@ subtitle: <a href='#'>Institute of Bioinformatics and Department of Marine Scien
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_2201.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
 
