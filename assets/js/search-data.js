@@ -405,12 +405,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-symposium-presentation-i-presented-a-my-research-on-the-intricate-history-of-host-switching-and-codivergence-of-the-bacterial-genus-pseudoalteromonas-and-marine-invertebrates-at-the-local-edge-symposium-at-uga-january-21",
+          title: 'Symposium Presentation: I presented a my research on “The intricate history of host...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-conference-presentation-i-presented-a-poster-and-rapid-talk-at-the-asm-conference-in-los-angeles-ca-june-19-23-on-the-metabolic-diversity-and-evolution-of-invertebrate-associated-pseudoalteromonas",
+          section: "News",},{id: "news-conference-presentation-i-presented-a-poster-and-rapid-talk-at-the-asm-conference-in-los-angeles-ca-june-19-23-on-the-metabolic-diversity-and-evolution-of-invertebrate-associated-pseudoalteromonas",
           title: 'Conference Presentation: I presented a poster and rapid talk at the ASM Conference...',
           description: "",
           section: "News",},{id: "news-new-preprint-published-pseudoalteromonas-is-a-novel-symbiont-of-marine-invertebrates-that-exhibits-broad-patterns-of-phylosymbiosis",
