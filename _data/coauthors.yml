@@ -1,10 +1,10 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Bik":
+  - firstname: ["Holly M."]
+    url: https://www.biklab.org
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Thrash":
+  - firstname: ["Cameron", "J. Cameron"]
+    url: https://thethrashlab.com
 
 "rosen":
   - firstname: ["Nathan", "N."]
