@@ -409,7 +409,7 @@ ninja.data = [{
           title: 'Symposium Presentation: I presented my research, “The intricate history of host switching and...',
           description: "",
           section: "News",},{id: "news-new-publication-my-first-author-paper-persistent-gaps-and-errors-in-reference-databases-impede-ecologically-meaningful-taxonomy-assignments-in-18s-rrna-studies-a-case-study-of-terrestrial-and-marine-nematodes-has-been-published-in-environmental-dna",
-          title: 'New Publication! 😎 My first-author paper “Persistent Gaps and Errors in Reference Databases...',
+          title: 'New Publication! 😎 My first-author paper “Persistent gaps and errors in reference databases...',
           description: "",
           section: "News",},{id: "news-symposium-presentation-i-presented-my-poster-marine-invertebrate-associated-bacteria-exhibit-genomic-evidence-of-nutritional-mutualism-at-the-local-iob-symposium-at-uga-april-18",
           title: 'Symposium Presentation: I presented my poster, “Marine invertebrate-associated bacteria exhibit genomic evidence of...',
