@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Symposium Presentation**: I presented my research, "Marine invertebrate-associated bacteria exhibit genomic evidence of nutritional mutualism” at the local IOB Symposium at UGA (April 18).
+**Symposium Presentation**: I presented my poster, "Marine invertebrate-associated bacteria exhibit genomic evidence of nutritional mutualism” at the local IOB Symposium at UGA (April 18).
