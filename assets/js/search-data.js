@@ -421,7 +421,7 @@ ninja.data = [{
           title: 'New Genome Announcement! 😎 My first-author paper “Complete genome sequences of two *Pseudoalteromonas...',
           description: "",
           section: "News",},{id: "news-new-preprint-my-first-author-paper-pseudoalteromonas-is-a-novel-symbiont-of-marine-invertebrates-that-exhibits-broad-patterns-of-phylosymbiosis-is-now-available-on-biorxiv",
-          title: 'New preprint! 😎 My first-author paper “Pseudoalteromonas is a novel symbiont of marine...',
+          title: 'New preprint! 😎 My first-author paper “*Pseudoalteromonas* is a novel symbiont of marine...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
