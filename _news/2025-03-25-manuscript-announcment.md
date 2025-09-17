@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**New Publication!** 😎 My first-author paper "<u>Persistent Gaps and Errors in Reference Databases Impede Ecologically Meaningful Taxonomy Assignments in 18S rRNA Studies: A Case Study of Terrestrial and Marine Nematodes</u>" has been published in *[Environmental DNA](https://onlinelibrary.wiley.com/doi/full/10.1002/edn3.70080)*
+**New Publication!** 😎 My first-author paper "<u>Persistent gaps and errors in reference databases impede ecologically meaningful taxonomy assignments in 18S rRNA studies: a case study of terrestrial and marine nematodes</u>" has been published in *[Environmental DNA](https://onlinelibrary.wiley.com/doi/full/10.1002/edn3.70080)*
