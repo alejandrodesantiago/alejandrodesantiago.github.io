@@ -265,7 +265,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [De Santiago, The Data Reuse Consortium]
-  first_name: [Alejandro]
+  first_name: [Alejandro, ]
 
   style: apa
   locale: en
