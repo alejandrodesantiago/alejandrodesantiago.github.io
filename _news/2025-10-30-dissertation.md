@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I successfully defended my dissertation, "Identification of novel nematode-associated symbionts by integrating pangenomic and single-specimen metagenomic datasets."
+**I successfully defended my dissertation**, "Identification of novel nematode-associated symbionts by integrating pangenomic and single-specimen metagenomic datasets."
