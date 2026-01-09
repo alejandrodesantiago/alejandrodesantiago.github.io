@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**New preprint!** 😎 A new preprint from the Bik Lab, "<u>Environmental gradients and habitat specificity structure benthic microbial assemblages in a temperate seagrass ecosystem</u>" is now available on *[BioRxiv](https://www.biorxiv.org/content/10.64898/2026.01.05.697649v1)*.
+**New preprint!** 😎 Our preprint, "<u>Environmental gradients and habitat specificity structure benthic microbial assemblages in a temperate seagrass ecosystem</u>" is now available on *[BioRxiv](https://www.biorxiv.org/content/10.64898/2026.01.05.697649v1)*.
