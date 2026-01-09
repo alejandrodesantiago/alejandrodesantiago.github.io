@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-new-preprint-environmental-gradients-and-habitat-specificity-structure-benthic-microbial-assemblages-in-a-temperate-seagrass-ecosystem-is-now-available-on-biorxiv",
-          title: 'New preprint! 😎 “Environmental gradients and habitat specificity structure benthic microbial assemblages in...',
+            },},{id: "news-new-preprint-a-new-preprint-from-the-bik-lab-environmental-gradients-and-habitat-specificity-structure-benthic-microbial-assemblages-in-a-temperate-seagrass-ecosystem-is-now-available-on-biorxiv",
+          title: 'New preprint! 😎 A new preprint from the Bik Lab, “Environmental gradients and...',
           description: "",
           section: "News",},{id: "news-symposium-presentation-i-presented-my-research-the-intricate-history-of-host-switching-and-codivergence-of-the-bacterial-genus-pseudoalteromonas-and-marine-invertebrates-at-the-local-edge-symposium-at-uga-january-21",
           title: 'Symposium Presentation: I presented my research, “The intricate history of host switching and...',
