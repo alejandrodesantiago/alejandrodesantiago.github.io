@@ -405,7 +405,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-symposium-presentation-i-presented-my-research-the-intricate-history-of-host-switching-and-codivergence-of-the-bacterial-genus-pseudoalteromonas-and-marine-invertebrates-at-the-local-edge-symposium-at-uga-january-21",
+            },},{id: "news-new-preprint-environmental-gradients-and-habitat-specificity-structure-benthic-microbial-assemblages-in-a-temperate-seagrass-ecosystem-is-now-available-on-biorxiv",
+          title: 'New preprint! 😎 “Environmental gradients and habitat specificity structure benthic microbial assemblages in...',
+          description: "",
+          section: "News",},{id: "news-symposium-presentation-i-presented-my-research-the-intricate-history-of-host-switching-and-codivergence-of-the-bacterial-genus-pseudoalteromonas-and-marine-invertebrates-at-the-local-edge-symposium-at-uga-january-21",
           title: 'Symposium Presentation: I presented my research, “The intricate history of host switching and...',
           description: "",
           section: "News",},{id: "news-new-publication-my-first-author-paper-persistent-gaps-and-errors-in-reference-databases-impede-ecologically-meaningful-taxonomy-assignments-in-18s-rrna-studies-a-case-study-of-terrestrial-and-marine-nematodes-has-been-published-in-environmental-dna",
