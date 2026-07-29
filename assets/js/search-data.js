@@ -418,7 +418,7 @@ ninja.data = [{
           title: 'Conference Presentation: I presented a poster and rapid talk at the ASM Conference...',
           description: "",
           section: "News",},{id: "news-new-genome-announcement-my-first-author-paper-complete-genome-sequences-of-two-pseudoalteromonas-undina-strains-isolated-from-a-marine-nematode-oncholaimidae-collected-at-tybee-island-has-been-published-in-microbiology-resource-announcements",
-          title: 'New Genome Announcement! 😎 My first-author paper “Complete genome sequences of two Pseudoalteromonas...',
+          title: 'New Genome Announcement! My first-author paper “Complete genome sequences of two Pseudoalteromonas undina...',
           description: "",
           section: "News",},{id: "news-new-preprint-my-first-author-paper-pseudoalteromonas-is-a-novel-symbiont-of-marine-invertebrates-that-exhibits-broad-patterns-of-phylosymbiosis-is-now-available-on-biorxiv",
           title: 'New preprint! My first-author paper “Pseudoalteromonas is a novel symbiont of marine invertebrates...',
