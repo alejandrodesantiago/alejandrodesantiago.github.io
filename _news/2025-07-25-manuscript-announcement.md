@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**New Genome Announcement!** 😎 My first-author paper "<u>Complete genome sequences of two <i>Pseudoalteromonas undina</i> strains isolated from a marine nematode (Oncholaimidae) collected at Tybee Island</u>" has been published in *[Microbiology Resource Announcements](https://journals.asm.org/doi/full/10.1128/mra.00419-25)*.
+**New Genome Announcement!** My first-author paper "<u>Complete genome sequences of two <i>Pseudoalteromonas undina</i> strains isolated from a marine nematode (Oncholaimidae) collected at Tybee Island</u>" has been published in *[Microbiology Resource Announcements](https://journals.asm.org/doi/full/10.1128/mra.00419-25)*.
