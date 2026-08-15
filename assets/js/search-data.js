@@ -441,7 +441,7 @@ ninja.data = [{
           section: "News",},{id: "news-new-preprint-the-third-chapter-of-my-dissertation-marine-nematodes-exhibit-widespread-symbiosis-novel-chemoautotrophy-and-evolutionary-conservation-of-holobiont-taxa-is-now-available-on-biorxiv",
           title: 'New preprint! The third chapter of my dissertation, “Marine nematodes exhibit widespread symbiosis,...',
           description: "",
-          section: "News",},{id: "news-conference-presentations-dr-holly-bik-and-i-are-presenting-our-research-on-the-nematode-microbiome-at-isme20-august-16-21-i-will-be-presenting-my-research-rapidly-expanding-the-tree-of-life-with-novel-mags-recovered-from-single-specimen-invertebrate-microbiomes-at-the-tree-of-life-session",
+          section: "News",},{id: "news-conference-presentations-dr-holly-bik-and-i-are-presenting-our-research-on-the-nematode-microbiome-at-isme20-august-16-21-i-will-be-presenting-my-research-rapidly-expanding-the-tree-of-life-with-novel-mags-recovered-from-single-specimen-invertebrate-microbiomes-amp-lt-u-amp-gt-quot-at-the-tree-of-life-session",
           title: 'Conference Presentations: Dr. Holly Bik and I are presenting our research on the...',
           description: "",
           section: "News",},{id: "news-new-publication-our-publication-location-and-habitat-specificity-structure-benthic-microbial-assemblages-in-a-temperate-seagrass-ecosystem-is-now-available-at-msphere",
