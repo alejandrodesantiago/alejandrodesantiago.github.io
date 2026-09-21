@@ -6,7 +6,7 @@ subtitle: <a href='#'>Department of Symbiosis</a> <br>Max Planck Institute for M
 
 
 profile:
-  align: right
+  align: left
   image: IMG_2201.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
