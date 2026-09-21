@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Institute of Bioinformatics and Department of Marine Sciences</a> <br>University of Georgia<br>325 Sanford Drive, Athens, Georgia 30605
+subtitle: <a href='#'>Department of Symbiosis</a> <br>Max Planck Institute for Marine Microbiology<br>Celsiusstr. 1, 28359 Bremen, Germany
 
 
 profile:
@@ -26,7 +26,7 @@ latest_posts:
 ---
 
 
-I am a Postdoctoral Research Associate in the [Bik Lab](https://www.biklab.org) in the Institute of Bioinformatics and the Department of Marine Sciences at the University of Georgia. My research integrates bioinformatics, comparative genomics, and microbial ecology to investigate the diversity, evolution, and ecology of host-associated bacteria and archaea.
+I am a Postdoctoral Research Scientist in the [Department of Symbiosis](https://www.mpi-bremen.de/en/Department-of-Symbiosis.html) at the Max Planck Institute for Marine Microbiology. My research integrates bioinformatics, comparative genomics, and microbial ecology to investigate the diversity, evolution, and ecology of host-associated bacteria and archaea. I was previously a postdoctoral research scientist in the [Bik Lab](https://www.biklab.org) at the Institute of Bioinformatics and Department of Marine Sciences at the University of Georgia.
 
 I earned my Ph.D. in Bioinformatics from the University of Georgia under the supervision of [Dr. Holly Bik](https://www.biklab.org), where I developed computational workflows to identify novel symbionts of marine nematodes and quantify the prevalence of symbiosis across marine nematodes lineages. I previously obtained my B.S. in Microbiology from the University of California, Riverside, where I conducted undergraduate research in the Bik Lab. I was also an HHMI Exceptional Research Opportunities Program (ExROP) Fellow in the [Jez Lab](https://sites.wustl.edu/jezlab/) at Washington University in St. Louis, where I investigated the kinetic and structural properties of chorismate mutase, a protein secreted by plant-parasitic nematodes during the early stages of host infection.
 
